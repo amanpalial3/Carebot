@@ -253,6 +253,7 @@ elif main_menu == "ℹ️ About":
     For informational purposes only. Not a substitute for medical advice.
     """, unsafe_allow_html=True)
     st.markdown('</div>', unsafe_allow_html=True)
+    
 
 st.markdown("---")
 st.caption("© 2026 CareBot | AI-Powered Health Assistant")
